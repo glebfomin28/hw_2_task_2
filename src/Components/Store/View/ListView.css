@@ -1,0 +1,39 @@
+.item_container {
+    margin: 20px 100px;
+    font-family: Bahnschrift;
+}
+
+.ShopItem {
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    background-color: #f3f3f4;
+}
+.ItemName {
+    font-size: 35px;
+    text-transform: uppercase ;
+}
+.ItemColor {
+    color: gray;
+    font-size: 25px;
+}
+.ItemImg {
+    width: 150px;
+}
+
+.ItemPrice {
+    margin-right: 100px;
+    color: brown;
+    font-size: 25px;
+}
+.ItemButton {
+    padding: 8px;
+    background-color: white;
+    border: 1px solid brown;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: 700;
+    color: brown;
+}
