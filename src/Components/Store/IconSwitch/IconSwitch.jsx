@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import "./IconSwitch.css";
 
 export const IconSwitch = (props) => {
     const [flag, setFlag] = useState(2)

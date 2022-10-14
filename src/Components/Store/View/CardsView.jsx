@@ -1,5 +1,4 @@
 import React from 'react';
-import "./CardView.css";
 export const CardsView = (props) => {
     return (
         <div className="cards_container">
